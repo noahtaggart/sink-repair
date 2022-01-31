@@ -15,6 +15,41 @@
       "address": "221B Baker Street",
       "budget": 800,
       "neededBy": "2022-01-27"
+    },
+    {
+      "description": "leaking kitchen sink",
+      "address": "Electric Ave",
+      "budget": "300",
+      "neededBy": "2022-02-04",
+      "id": 3
+    },
+    {
+      "description": "",
+      "address": "",
+      "budget": "",
+      "neededBy": "",
+      "id": 4
+    },
+    {
+      "description": "",
+      "address": "",
+      "budget": "",
+      "neededBy": "",
+      "id": 5
+    },
+    {
+      "description": "",
+      "address": "",
+      "budget": "",
+      "neededBy": "",
+      "id": 6
+    },
+    {
+      "description": "leaking kitchen sink",
+      "address": "Electric Ave",
+      "budget": "500",
+      "neededBy": "2022-02-05",
+      "id": 7
     }
   ]
 }
